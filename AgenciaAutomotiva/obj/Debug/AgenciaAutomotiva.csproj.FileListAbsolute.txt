@@ -1,0 +1,16 @@
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\bin\Debug\AgenciaAutomotiva.exe.config
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\bin\Debug\AgenciaAutomotiva.exe
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\bin\Debug\AgenciaAutomotiva.pdb
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.Properties.Resources.resources
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.csproj.GenerateResource.cache
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.exe
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.pdb
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.FormularioBuscaVeiculo.resources
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaAutomotiva.FormularioMostraVeiculo.resources
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\bin\Debug\EntityFramework.dll
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\bin\Debug\EntityFramework.xml
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amanc\source\repos\AgenciaAutomotiva\AgenciaAutomotiva\obj\Debug\AgenciaA.B48450DE.Up2Date

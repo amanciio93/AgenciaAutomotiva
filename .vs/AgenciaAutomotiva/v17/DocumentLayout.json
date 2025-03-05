@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amanc\\source\\repos\\AgenciaAutomotiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF166F8-2BB1-4324-8D10-8E1DC70D91BC}|AgenciaAutomotiva\\AgenciaAutomotiva.csproj|c:\\users\\amanc\\source\\repos\\agenciaautomotiva\\agenciaautomotiva\\formulariobuscaveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF166F8-2BB1-4324-8D10-8E1DC70D91BC}|AgenciaAutomotiva\\AgenciaAutomotiva.csproj|solutionrelative:agenciaautomotiva\\formulariobuscaveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF166F8-2BB1-4324-8D10-8E1DC70D91BC}|AgenciaAutomotiva\\AgenciaAutomotiva.csproj|c:\\users\\amanc\\source\\repos\\agenciaautomotiva\\agenciaautomotiva\\formulariomostraveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF166F8-2BB1-4324-8D10-8E1DC70D91BC}|AgenciaAutomotiva\\AgenciaAutomotiva.csproj|solutionrelative:agenciaautomotiva\\formulariomostraveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 563,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioMostraVeiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amanc\\source\\repos\\AgenciaAutomotiva\\AgenciaAutomotiva\\FormularioMostraVeiculo.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotiva\\FormularioMostraVeiculo.cs",
+              "ToolTip": "C:\\Users\\amanc\\source\\repos\\AgenciaAutomotiva\\AgenciaAutomotiva\\FormularioMostraVeiculo.cs [Design]",
+              "RelativeToolTip": "AgenciaAutomotiva\\FormularioMostraVeiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:57:18.168Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 525,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularioBuscaVeiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amanc\\source\\repos\\AgenciaAutomotiva\\AgenciaAutomotiva\\FormularioBuscaVeiculo.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotiva\\FormularioBuscaVeiculo.cs",
+              "ToolTip": "C:\\Users\\amanc\\source\\repos\\AgenciaAutomotiva\\AgenciaAutomotiva\\FormularioBuscaVeiculo.cs [Design]",
+              "RelativeToolTip": "AgenciaAutomotiva\\FormularioBuscaVeiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:57:19.678Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
